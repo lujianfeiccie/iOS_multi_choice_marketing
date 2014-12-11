@@ -9,9 +9,9 @@
 #import <Foundation/Foundation.h>
 #define GLOBAL_BGColor [UIColor colorWithRed:243.0/255.0 green:239.0/255.0 blue:236.0/255.0 alpha:100]
 
-#define GLOBAL_APP_ID 949820515
+#define GLOBAL_APP_ID 950582445
 //Test APP ID 284417350
-//MY   APP ID 949820515
+//MY   APP ID 950582445
 @interface Constant : NSObject
 
 @end
