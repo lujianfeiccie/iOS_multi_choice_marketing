@@ -78,11 +78,11 @@
 <choice>终身保修</choice>
 <choice>优质品牌</choice>
 </question>
-<question title="14. 某企业有5条产品线，它们的产品项目数分别是4、7、6、5、2，那么该企业的产品组合的 宽度和长度分别为(2009年7月)" answer="5，24" note="">
-<choice>5，7</choice>
-<choice>11，13</choice>
-<choice>5，11</choice>
-<choice>5，24</choice>
+<question title="14. 某企业有5条产品线，它们的产品项目数分别是4、7、6、5、2，那么该企业的产品组合的 宽度和长度分别为(2009年7月)" answer="５，24" note="">
+<choice>５，7</choice>
+<choice>１１，13</choice>
+<choice>５，11</choice>
+<choice>５，24</choice>
 </question>
 <question title="15. 产品生命周期指的是(2009年7月)" answer="产品市场寿命" note="">
 <choice>产品使用寿命</choice>
@@ -150,11 +150,11 @@
 <choice>品牌计划</choice>
 <choice>职能计划</choice>
 </question>
-<question title="26. 某企业产品的市场占有率为30％，其最大的三个竞争者的市场占有率分别为20%,10%,10%,则该企业的相对市场占有率(相对于三个最大竞争者)为(2009年7月)" answer="75％" note="">
-<choice>75％</choice>
-<choice>10％</choice>
-<choice>50％</choice>
-<choice>30％</choice>
+<question title="26. 某企业产品的市场占有率为30％，其最大的三个竞争者的市场占有率分别为20%,10%,10%,则该企业的相对市场占有率(相对于三个最大竞争者)为(2009年7月)" answer="７５％" note="">
+<choice>７５％</choice>
+<choice>１０％</choice>
+<choice>５０％</choice>
+<choice>３０％</choice>
 </question>
 <question title="27. 调整企业与所有利益相关者之间关系的行为规范的总和是(2009年7月)" answer="营销道德" note="">
 <choice>道德</choice>
@@ -168,11 +168,11 @@
 <choice>渠道策略中不道德行为</choice>
 <choice>促销策略中不道德行为</choice>
 </question>
-<question title="29. 市场营销中的英文缩写&quot;4C&quot;，除Consumer(消费者)、Cost(成本)、Convenience(便利)以 外还有(2009年7月)" answer="Communication(沟通)" note="">
-<choice>Customer(顾客)</choice>
-<choice>Contribution(贡献)</choice>
-<choice>Communication(沟通)</choice>
-<choice>Construction(构建)</choice>
+<question title="29. 市场营销中的英文缩写&quot;4C&quot;，除Consumer(消费者)、Cost(成本)、Convenience(便利)以 外还有(2009年7月)" answer="Ｃommunication(沟通)" note="">
+<choice>Ｃustomer(顾客)</choice>
+<choice>Ｃontribution(贡献)</choice>
+<choice>Ｃommunication(沟通)</choice>
+<choice>Ｃonstruction(构建)</choice>
 </question>
 <question title="30. 利用Internet技术最大程度地满足客户的需求，来达到开拓市场，增加盈利目的的营销过 程是(2009年7月)" answer="网络营销" note="">
 <choice>关系营销</choice>
